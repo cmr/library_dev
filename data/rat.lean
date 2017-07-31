@@ -6,7 +6,6 @@ Authors: Johannes Hölzl
 Introduces the rational numbers as discrete, linear ordered field.
 -/
 
-import standard
 
 /- linorder -/
 
